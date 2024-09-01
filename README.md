@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CheerWinLi
-- 👀 I’m interested in service mesh 
+- 👀 I’m interested in rpc
 - 🌱 I’m currently learning java
 - 💞️ I’m a student study in GDUT
-- 📫 How to reach me ...
+- 📫 How to reach me : lictory995@gmail.com or wechat : 995372381
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
